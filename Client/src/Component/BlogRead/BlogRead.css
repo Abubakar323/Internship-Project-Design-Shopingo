@@ -1,0 +1,13 @@
+#icon{
+    background-color: transparent;
+    border: 2px solid black;
+    
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    border-radius: 50px;
+}
+#icon:hover{
+    background-color: black;
+    color: white;
+}

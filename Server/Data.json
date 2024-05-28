@@ -1,0 +1,244 @@
+[
+    {
+      "product_id": 1,
+      "name": "Smartphone",
+      "description": "High-end smartphone with advanced features.",
+      "price": 599.99,
+      "unit": "Piece",
+      "image": "https://media.istockphoto.com/id/694075244/photo/holding-samsung-galaxy-s8.jpg?s=612x612&w=0&k=20&c=RPL37BOfC7bQNJXNTE2Y1CmsiddHG-tFToQWslCKVPo=",
+      "discount": 10,
+      "availability": true,
+      "brand": "BrandX",
+      "category": "Electronics",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user_id": 1,
+          "rating": 5,
+          "comment": "Great phone with a superb camera!"
+        },
+        {
+          "user_id": 2,
+          "rating": 4,
+          "comment": "Good performance, but the battery life could be better."
+        }
+      ]
+    }  ,
+    {
+      "product_id": 2,
+      "name": "Laptop",
+      "description": "Powerful laptop for work and gaming.",
+      "price": 999.99,
+      "unit": "Piece",
+      "image": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wJTIwY29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D",
+      "discount": 5,
+      "availability": true,
+      "brand": "BrandY",
+      "category": "Electronics",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user_id": 3,
+          "rating": 5,
+          "comment": "Excellent laptop for gaming and work tasks."
+        },
+        {
+          "user_id": 4,
+          "rating": 4,
+          "comment": "Good value for the price."
+        }
+      ]
+    },
+    {
+      "product_id": 3,
+      "name": "Wireless Headphones",
+      "description": "Premium wireless headphones with noise-cancellation.",
+      "price": 149.99,
+      "unit": "Piece",
+      "image": "https://media.istockphoto.com/id/1373017594/photo/headphones-on-the-orange-color-background.webp?b=1&s=170667a&w=0&k=20&c=oY2yXWwTRXXNH_yATYIy5SO_AhgXRutbSDsrfO3hULw=",
+      "discount": 15,
+      "availability": true,
+      "brand": "SoundMasters",
+      "category": "Electronics",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user_id": 5,
+          "rating": 5,
+          "comment": "Top-notch sound quality and comfort."
+        },
+        {
+          "user_id": 6,
+          "rating": 4,
+          "comment": "Impressive noise-cancellation, but a bit pricey."
+        }
+      ]
+    },
+    {
+      "product_id": 4,
+      "name": "Smartwatch",
+      "description": "Feature-packed smartwatch with fitness tracking.",
+      "price": 199.99,
+      "unit": "Piece",
+      "image": "https://www.cnet.com/a/img/resize/7ee4c4356006305a4107e61641a2edd48c0cf937/hub/2022/12/16/11c5ee0a-5c4b-4384-9ec7-cd8dc0b977db/smart.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "discount": 10,
+      "availability": true,
+      "brand": "TechWear",
+      "category": "Wearables",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user_id": 7,
+          "rating": 4,
+          "comment": "Great value for the features it offers."
+        },
+        {
+          "user_id": 8,
+          "rating": 5,
+          "comment": "Sleek design and accurate fitness tracking."
+        }
+      ]
+    },
+    {
+      "product_id": 5,
+      "name": "Professional DSLR Camera",
+      "description": "High-quality DSLR camera for photography enthusiasts.",
+      "price": 499.99,
+      "unit": "Piece",
+      "image": "https://offshoreclipping.com/wp-content/uploads/2021/12/Best-DSLR-Camera-for-Professional-Photography.jpg",
+      "discount": 5,
+      "availability": true,
+      "brand": "PhotoPro",
+      "category": "Cameras",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user_id": 9,
+          "rating": 5,
+          "comment": "Exceptional image quality and versatility."
+        },
+        {
+          "user_id": 10,
+          "rating": 4,
+          "comment": "A bit heavy, but the results are worth it."
+        }
+      ]
+    },
+    {
+      "product_id": 6,
+      "name": "Smart TV",
+      "description": "High-definition smart TV with built-in streaming apps.",
+      "price": 799.99,
+      "unit": "Piece",
+      "image": "https://t4.ftcdn.net/jpg/00/60/22/53/360_F_60225311_S8DcTVag5dytCiTQDzXwKbq8UNKBBYJU.jpg",
+      "discount": 8,
+      "availability": true,
+      "brand": "ViewTech",
+      "category": "Electronics",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user_id": 11,
+          "rating": 5,
+          "comment": "Stunning picture quality and user-friendly interface."
+        },
+        {
+          "user_id": 12,
+          "rating": 4,
+          "comment": "A great addition to our home entertainment setup."
+        }
+      ]
+    },
+    {
+      "product_id": 7,
+      "name": "Tablet",
+      "description": "Compact tablet for productivity and entertainment.",
+      "price": 299.99,
+      "unit": "Piece",
+      "image": "https://static8.depositphotos.com/1000128/1018/i/450/depositphotos_10187709-stock-photo-set-of-tablet-computers.jpg",
+      "discount": 12,
+      "availability": true,
+      "brand": "TabTech",
+      "category": "Electronics",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "user_id": 13,
+          "rating": 4,
+          "comment": "Good value for the price, but the battery life could be better."
+        },
+        {
+          "user_id": 14,
+          "rating": 5,
+          "comment": "Ideal for both work and entertainment on the go."
+        }
+      ]
+    },
+    {
+      "product_id": 8,
+      "name": "Gaming Console",
+      "description": "Next-gen gaming console for immersive gaming experiences.",
+      "price": 399.99,
+      "unit": "Piece",
+      "image": "https://media.istockphoto.com/id/1334436084/photo/top-down-view-of-colorful-illuminated-gaming-accessories-laying-on-table.jpg?s=612x612&w=0&k=20&c=E9xnbAZoBS5LlUX0q-zxT_3m6gEZpyB2k51_U4LLMNs=",
+      "discount": 10,
+      "availability": true,
+      "brand": "GameX",
+      "category": "Gaming",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user_id": 15,
+          "rating": 5,
+          "comment": "Incredible gaming performance and graphics."
+        },
+        {
+          "user_id": 16,
+          "rating": 4,
+          "comment": "A must-have for gaming enthusiasts."
+        }
+      ]
+    },
+    {
+      "product_id": 9,
+      "name": "Energy-Efficient Refrigerator",
+      "description": "Modern refrigerator with energy-saving features.",
+      "price": 599.99,
+      "unit": "Piece",
+      "image": "https://media.istockphoto.com/id/1301959047/photo/energy-efficiency-of-home-kitchen-appliances-concept.jpg?s=612x612&w=0&k=20&c=de9dYOENeXKri5gb3WZcOcFCFVVyPDZkYS2W_JY1L-Y=",
+      "discount": 5,
+      "availability": true,
+      "brand": "CoolTech",
+      "category": "Appliances",
+      "rating": 4.6
+    },
+    {
+      "product_id": 9,
+      "name": "watch",
+      "description": "Modern refrigerator with energy-saving features.",
+      "price": 5999.99,
+      "unit": "Piece",
+      "image": "https://media.istockphoto.com/id/121025448/photo/gold-pocket-watch-and-hourglass.jpg?s=612x612&w=0&k=20&c=XtGcbw9mCbJ5ZEFMC_x9wAObdl5AtD7qOCR8jI2w2zQ=",
+      "discount": 5,
+      "availability": true,
+      "brand": "CoolTech",
+      "category": "Appliances",
+      "rating": 4.6
+    },
+    {
+      "product_id": 9,
+      "name": "jacket",
+      "description": "Modern refrigerator with energy-saving features.",
+      "price": 5999.99,
+      "unit": "Piece",
+      "image": "https://media.istockphoto.com/id/163208487/photo/male-coat-isolated-on-the-white.jpg?s=612x612&w=0&k=20&c=3Sdq5xnVS2jOYPNXI6JLwAumzyelcP_VgKVW0MVUhwo=",
+      "discount": 5,
+      "availability": true,
+      "brand": "CoolTech",
+      "category": "Appliances",
+      "rating": 4.6
+    } 
+  ]
+
+
+
